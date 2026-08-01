@@ -31,6 +31,6 @@ jobs:
             exit 0
           fi
 
-          git add CSES
+          git add Codeforces
           git commit -m "Auto-update Codeforces submodule from recent push"
           git push
