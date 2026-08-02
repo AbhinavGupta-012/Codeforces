@@ -2,3 +2,5 @@
 Code Warehouse for all of my Codeforces Solutions
 
 1. [4A Watermelon](/4A%20Watermelon) on 1st Aug 2026 in Java. Time - 592 ms and Memory - 1100 KB
+
+2. [71A Way Too Long Words](/71A%20Way%20Too%20Long%20Words) on 2nd Aug 2026. Time - 343 ms and Memory 1400 KB
