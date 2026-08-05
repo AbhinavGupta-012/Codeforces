@@ -8,3 +8,5 @@ Code Warehouse for all of my Codeforces Solutions
 3. [231A Team](/231A%20Team) on 3rd Aug 2026. Time - 562 ms and Memory - 1400 KB
 
 4. [282A Bit++](/282%20Bit++) on 4th Aug 2026. Time - 250 ms and Memory - 2400 KB
+
+5. [158A Next Riund](/158A%20Next%20Round) on 5th Aug 2026. Time - 500 ms and Memeory - 600 KB
