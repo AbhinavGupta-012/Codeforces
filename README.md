@@ -10,3 +10,5 @@ Code Warehouse for all of my Codeforces Solutions
 4. [282A Bit++](/282%20Bit++) on 4th Aug 2026 in Java. Time - 250 ms and Memory - 2400 KB
 
 5. [158A Next Riund](/158A%20Next%20Round) on 5th Aug 2026 in Java. Time - 500 ms and Memeory - 600 KB
+
+6. [50A Domino piling](/50A%20Domino%20piling) on 6th Aug 2026 in Java. Time - 592 ms and Memory - 900 KB
